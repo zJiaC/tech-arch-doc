@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://zjiac.github.io/tech-arch-doc/tech-arch-doc/sitemap.xml
