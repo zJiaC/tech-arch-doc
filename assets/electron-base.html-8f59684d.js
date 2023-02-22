@@ -36,7 +36,7 @@ import{_ as e,X as p,Y as o,a0 as n,a2 as s,$ as t,a3 as c,H as l}from"./framewo
         width<span class="token operator">:</span> <span class="token number">800</span><span class="token punctuation">,</span>
     <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
 
-    <span class="token doc-comment comment">/**
+    <span class="token comment">/**
      * loadURL 分为两种情况
      *  1.开发环境，指向 react 的开发环境地址
      *  2.生产环境，指向 react build 后的 index.html
@@ -179,7 +179,7 @@ ipcMain<span class="token punctuation">.</span><span class="token function">on</
     <span class="token punctuation">}</span><span class="token punctuation">;</span>
   <span class="token punctuation">}</span>
 
-  <span class="token doc-comment comment">/**
+  <span class="token comment">/**
    * 弹出文件选择框，选择 .txt 文件
    * 将选中的 .txt 内容展示到页面
    */</span>
